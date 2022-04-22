@@ -1,0 +1,13 @@
+{
+
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "phpstan/phpstan": "^1.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Test\\": "src"
+        }
+    }
+}

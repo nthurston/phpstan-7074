@@ -4,3 +4,4 @@ parameters:
     - src
   stubFiles:
     - AbstractModel.stub
+    - IntermediaryModel.stub
